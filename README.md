@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse
 
-> A repository with HTML and CSS Linter set up.
+
+> Portfolio-Set-up-and-mobile-version-skeleton
 
 
 ## Built With
@@ -28,12 +28,12 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤
 
 - GitHub: https://github.com/marcokumu
-- Twitter: @MarkOkumu5
+- Twitter: https://twitter.com/MarkOkumu5
 - LinkedIn: www.linkedin.com/in/markokumu
 
 
